@@ -1,2 +1,0 @@
-full:codex-api.packycode.com
-suffix:codex.packycode.com
