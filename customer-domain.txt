@@ -1,18 +1,2 @@
-# 注释行可以留，sing-box 会忽略
-# ----------- 常用 Telemetry -----------
-# 完整域名（精确匹配）
 full:codex-api.packycode.com
-full:api.segment.io
-full:cdn.segment.com
-
-# 后缀匹配（含子域）
-suffix:google-analytics.com
-suffix:firebase.google.com
-suffix:crashlytics.com
 suffix:codex.packycode.com
-suffix:segment.io
-
-
-# 关键字
-keyword:packycode.com
-
