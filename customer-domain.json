@@ -3,13 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "codex.packycode.com",
         "factory.ai",
-        "codex-api.packycode.com",
-        "codex-api-cf-pro.packycode.com",
-        "codex-api-hk-cdn.packycode.com",
-        "codex-api-hk-cn2.packycode.com",
-        "packycode.com",
         "1991211.xyz",
         "420624.xyz",
         "medusajs.com",
