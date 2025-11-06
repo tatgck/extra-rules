@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "ormroh.xyz",
+                "orxyji.xyz",
+                "vvpgwg.xyz",
+                "jxpoam.xyz",
+                "868103.xyz",
+                "glados-config.net",
+                "gladns.com",
+                "otheve.beacon.qq.com",
+                "app-measurement.com",
+                "personal.local.wps.cn",
+                "mobile.events.data.microsoft.com",
+                "testingcf.jsdelivr.net",
+                "cdn.jsdelivr.net",
+                "fastly.jsdelivr.net"
+            ]
+        }
+    ]
+}
