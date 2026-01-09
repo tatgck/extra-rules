@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "factory.ai",
+        "api.factory.ai",
+        "packyapi.com",
+        "codex-api.packycode.com",
+        "perplexity.ai",
+        "linux.do",
+        "deepbricks.ai",
+        "groq.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "api.termius.com",
+                "linux.do",
+                "nodeseek.com",
+                "termius.com",
+                "linux.do",
+                "nodeseek.com",
+                "1991211.xyz",
+                "420624.xyz",
+                "medusajs.com",
+                "deepbricks.ai",
+                "proton.me",
+                "groq.com",
+                "youtubekids.com",
+                "reddit.com",
+                "neon.tech",
+                "better-auth.com"
+            ]
+        }
+    ]
+}
