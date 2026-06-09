@@ -9,7 +9,9 @@
         "deepbricks.ai",
         "*.groq.com",
         "*.googleapis.com",
-        "*.minimax.io"
+        "*.minimax.io",
+        "*.ciii.club",
+        "codex.ciii.club"
       ]
     }
   ]
