@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "t.me",
+        "telegram.dog",
+        "telegram.me",
+        "telegram.org",
+        "telegra.ph",
+        "tdesktop.com",
+        "telesco.pe"
+      ]
+    }
+  ]
+}
