@@ -15,7 +15,12 @@
                 "mobile.events.data.microsoft.com",
                 "testingcf.jsdelivr.net",
                 "cdn.jsdelivr.net",
-                "fastly.jsdelivr.net"
+                "fastly.jsdelivr.net",
+                "*.dragon3api.com",
+                "*.modelflare.dev",
+                "*.relaycore.cn",
+                "codex.ciii.club",
+                "euzhi.vip"
             ]
         }
     ]
